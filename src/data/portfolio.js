@@ -12,9 +12,9 @@ export default [
       link: 'https://thehackershideout.com',
    },
    {
-      title: 'AI Nerf Gun',
+      title: 'Github/Projects',
       imgUrl: '/assets/ai-nerf-gun.jpg',
       stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      link: 'https://github.com/Hokage305',
    },
 ]
